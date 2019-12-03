@@ -51,3 +51,7 @@ Please feel free to submit PRs with your own additions!
 * [Stack Overflow](https://stackoverflow.com/jobs?q=front-end)
 * [Startup Jobs](https://startup.jobs)
 * [Vettery](https://vettery.com)
+
+### Negotiation utilities
+
+* [levels.fyi](https://levels.fyi/)
