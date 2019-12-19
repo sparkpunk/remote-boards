@@ -41,6 +41,7 @@ Please feel free to submit PRs with your own additions!
 * [Idealist](http://www.idealist.org/)
 * [Jobscribe](http://jobscribe.com/)
 * [Jobspresso](https://jobspresso.co/)
+* [Key Values](https://www.keyvalues.com/)
 * [Moonlight](https://www.moonlightwork.com/)
 * [The Muse](https://www.themuse.com/jobs)
 * [Outsourcely](https://www.outsourcely.com)
@@ -52,8 +53,12 @@ Please feel free to submit PRs with your own additions!
 * [Startup Jobs](https://startup.jobs)
 * [Vettery](https://vettery.com)
 
-### Miscellaneous utilities
+### Remote Work Travel Logistics
+* [Hacker Paradise](https://hackerparadise.org)
+* [Remote Year](https://remoteyear.com)
+* [Wifi Tribe](https://wifitribe.co)
 
+### Miscellaneous utilities
 
 * [Huntr](https://huntr.co/): Kanban-style job hunting
 * [levels.fyi](https://levels.fyi/): crowdsourced salaries by job title and region
