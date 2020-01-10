@@ -14,6 +14,7 @@ Please feel free to submit PRs with your own additions!
 * [Remote-friendly Companies](https://github.com/jessicard/remote-jobs)
 * [Remote Friendly](https://remotefriendly.work/)
 * [Remote Jobs](https://remote-jobs.io/)
+* [Remotely People](https://remotelypeople.com/)
 * [Remote OK](https://remoteok.io/)
 * [Remotive](https://remotive.io/find-a-job/)
 * [Skip the Drive](https://www.skipthedrive.com/)
@@ -54,10 +55,20 @@ Please feel free to submit PRs with your own additions!
 * [Startup Jobs](https://startup.jobs)
 * [Vettery](https://vettery.com)
 
-### Remote Work Travel Logistics
+### Remote work/travel logistics
 * [Hacker Paradise](https://hackerparadise.org)
 * [Remote Year](https://remoteyear.com)
 * [Wifi Tribe](https://wifitribe.co)
+
+### Coliving resources (global)
+* [Coliving](https://coliving.com)
+* [Hmlet](https://www.hmlet.com)
+* [Outsite](https://outsite.co)
+
+### Coliving resources (local)
+##### Singapore
+* [Easy City](https://www.easycity.sg/)
+* [Login Apartment](https://www.loginapartment.com/locations/)
 
 ### Miscellaneous utilities
 
