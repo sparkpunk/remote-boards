@@ -74,3 +74,4 @@ Please feel free to submit PRs with your own additions!
 
 * [Huntr](https://huntr.co/): Kanban-style job hunting
 * [levels.fyi](https://levels.fyi/): crowdsourced salaries by job title and region
+* [Remote Planet](https://remoteplanet.io/): curated data for digital nomads & travelers
