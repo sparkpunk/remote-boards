@@ -18,6 +18,7 @@ Please feel free to submit PRs with your own additions!
 * [Remote OK](https://remoteok.io/)
 * [Remotive](https://remotive.io/find-a-job/)
 * [Skip the Drive](https://www.skipthedrive.com/)
+* [Theo Jobs (design only)](https://theojobs.com/)
 * [Virtual Vocations](https://www.virtualvocations.com/)
 * [Unicorn Hunt](https://unicornhunt.io/)
 * [We Work Remotely](https://weworkremotely.com/)
@@ -61,12 +62,12 @@ Please feel free to submit PRs with your own additions!
 * [Remote Year](https://remoteyear.com)
 * [Wifi Tribe](https://wifitribe.co)
 
-### Coliving resources (global)
+### Coliving resources (international)
 * [Coliving](https://coliving.com)
 * [Hmlet](https://www.hmlet.com)
 * [Outsite](https://outsite.co)
 
-### Coliving resources (local)
+### Coliving resources (national)
 ##### Singapore
 * [Easy City](https://www.easycity.sg/)
 * [Login Apartment](https://www.loginapartment.com/locations/)
