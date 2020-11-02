@@ -8,10 +8,10 @@ Please feel free to submit PRs with your own additions!
 
 * [21 Nomads](https://21nomads.com)
 * [Flex Jobs](https://www.flexjobs.com)
-* [Nomadbond](https://nomadbond.com/)
 * [Remote.co](https://remote.co/remote-jobs/)
 * [Remote.com](https://remote.com/jobs)
 * [Remote-friendly Companies](https://github.com/jessicard/remote-jobs)
+* [Remotebond](https://remotebond.com)
 * [Remote Friendly](https://remotefriendly.work/)
 * [Remote Jobs](https://remote-jobs.io/)
 * [Remotely People](https://remotelypeople.com/)
