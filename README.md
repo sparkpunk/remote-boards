@@ -7,6 +7,7 @@ Please feel free to submit PRs with your own additions!
 ### Remote-specific job boards
 
 * [21 Nomads](https://21nomads.com)
+* [Design Remotely (designer-specific)](https://designremotely.co/)
 * [Flex Jobs](https://www.flexjobs.com)
 * [Remote.co](https://remote.co/remote-jobs/)
 * [Remote.com](https://remote.com/jobs)
@@ -18,7 +19,6 @@ Please feel free to submit PRs with your own additions!
 * [Remote OK](https://remoteok.io/)
 * [Remotive](https://remotive.io/find-a-job/)
 * [Skip the Drive](https://www.skipthedrive.com/)
-* [Theo Jobs (design only)](https://theojobs.com/)
 * [Virtual Vocations](https://www.virtualvocations.com/)
 * [Unicorn Hunt](https://unicornhunt.io/)
 * [We Work Remotely](https://weworkremotely.com/)
@@ -73,7 +73,6 @@ Please feel free to submit PRs with your own additions!
 * [Login Apartment](https://www.loginapartment.com/locations/)
 
 ### Miscellaneous utilities
-
 * [Huntr](https://huntr.co/): Kanban-style job hunting
 * [levels.fyi](https://levels.fyi/): crowdsourced salaries by job title and region
 * [Remote Planet](https://remoteplanet.io/): curated data for digital nomads & travelers
